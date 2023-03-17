@@ -1,6 +1,1 @@
-matplotlib
-numpy
-pandas
-seaborn
-jupyter
-notebook
+scrapy
